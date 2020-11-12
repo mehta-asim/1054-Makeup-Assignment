@@ -1,0 +1,32 @@
+body
+{  
+	font-size: 23px; 
+
+ }
+ #container
+ {
+ 	max-width: 1200px;
+ 	margin: 0 auto;
+ }
+
+ div {
+
+ 	text-align: justify;
+ }
+
+ h1 {
+
+ 	text-transform: uppercase;
+ 	text-align: center;
+ 	color: blue;
+ }
+
+ h2 {
+
+ 	color: red;
+ }
+
+ img {
+
+ 	border-radius: 10px;
+ }
